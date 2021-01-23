@@ -1,2 +1,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 0acd9a6b91dae7fb04fc0f3e7bbcd9fa66d34fd7
